@@ -2,7 +2,7 @@
 
 **Course**: Advanced Web Development Frameworks (ITUE301)  
 **Student**: Bhavya Durgani &bull; **Roll No**: D25CS112  
-**Department**: Faculty of Technology & Engineering, CHARUSAT  
+**Department**: CSE - CSPIT, CHARUSAT  
 
 ---
 
